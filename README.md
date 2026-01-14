@@ -31,17 +31,17 @@ You can also open **Manual Exchange Rate Adjustment** to set your own rate.
 ## 📦 Installation (Development)
 1. Clone this repository:
 ```bash
-git clone https://github.com/apase95/Automatic-Currency-Convetter.git
+git clone https://github.com/apase95/Automatic-Currency-Conveter.git
 ```
-3. Install Dependencies:
+2. Install Dependencies:
 - Windows:
 ```bash
 npm install
 ```
 - Linux:
 ```bash
-cd Automatic-Currency-Convertter
-sudo ./install.sh
+cd Automatic-Currency-Converter
+npm install
 ```
 3. Build the extension:
 ```bash
